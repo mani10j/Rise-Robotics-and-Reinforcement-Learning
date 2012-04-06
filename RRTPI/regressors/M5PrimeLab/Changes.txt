@@ -1,0 +1,7 @@
+ver. 1.0.1
+September 3, 2010
+* A tiny change so that M5PrimeLab is fully compatible with Octave: "ttt=tic;" is replaced by "tic;" and "time = toc(ttt);" is replaced by "time = toc;" (Thanks to Dr. Julio J. Valdes for reminding me of Octave community.)
+
+ver. 1.0
+April 9, 2010
+* First public release.
